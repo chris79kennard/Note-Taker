@@ -16,5 +16,5 @@
 
 # links
 
-- [deployed website](https://chris79kennard.github.io/Note-Taker/)
+- [deployed website](https://christophers-note-taker.herokuapp.com/)
 - [repository](https://github.com/chris79kennard/Note-Taker)
